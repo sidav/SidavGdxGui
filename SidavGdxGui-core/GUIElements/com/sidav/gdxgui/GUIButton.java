@@ -1,11 +1,9 @@
 package com.sidav.gdxgui;
 
-public abstract class GUIAbstract {
+public class GUIButton extends GUIAbstract {
 
-	
-	public GUIAbstract() {
+	public GUIButton() {
 		// TODO Auto-generated constructor stub
-		
 	}
 
 }
